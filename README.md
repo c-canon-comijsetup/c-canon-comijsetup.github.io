@@ -7,7 +7,7 @@ To install and run the Canon printer Setup, you can follow the instructions give
 
 ##  Get Help to Locate Canon Printer Model Number
 
-Before you begin **[Canon.com/ijsetup](c-canon-comijsetup.github.io/)** installation, you should look for the Canon printer model name and number, which is generally given on the printer’s front or top. Then you can visit **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** to enter the **Canon printer model number** to start with Canon printer.
+Before you begin **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** installation, you should look for the Canon printer model name and number, which is generally given on the printer’s front or top. Then you can visit **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** to enter the **Canon printer model number** to start with Canon printer.
 
 
 ##  Steps to Wireless Setup Of canon com ij setup
