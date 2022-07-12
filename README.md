@@ -10,7 +10,7 @@ To install and run the Canon printer Setup, you can follow the instructions give
 Before you begin **[Canon.com/ijsetup](c-canon-comijsetup.github.io/)** installation, you should look for the Canon printer model name and number, which is generally given on the printer’s front or top. Then you can visit **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** to enter the **Canon printer model number** to start with Canon printer.
 
 
-##  Steps to Wireless Setup Of ij.start.canon
+##  Steps to Wireless Setup Of canon com ij setup
 
 1. First of all, open the Canon printer manufacturer site ij.start.canon and jump next to the **“Set up”** option.
 2 Once asked, **enter the Canon ij printer model number** at **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** and choose the drop-down menu’s operating system.
@@ -22,7 +22,7 @@ Before you begin **[Canon.com/ijsetup](c-canon-comijsetup.github.io/)** installa
 9. Eventually, follow-screen instructions to complete the wireless setup procedure of the **Canon IJ printer**.
 
 
-##  Steps to USB Setup Of ij.start.canon
+##  Steps to USB Setup Of canon com ij setup
 
 1. Firstly, Before you begin setting up Canon ij printer from **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)**, ensure the USB isn’t associated with your computer. Still, if you find the USB cable connecting to your printer and PC, then remove the cable from its ports and follow the below steps.
 2. Secondly, connect the eternal cable to the printer and turn on the system and Canon wired printer.
@@ -34,7 +34,7 @@ Before you begin **[Canon.com/ijsetup](c-canon-comijsetup.github.io/)** installa
 9. To see if the Canon printer from **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** has successfully installed or not, configure the ink cartridge and use paper to start the print.
 
 
-## Steps to Ij Canon Printer Drivers Download
+## Steps to Canon Printer Drivers Download
 
 1. Go to **Canon.com/ijsetup** website using a web browser (default or any other).
 2. Click **“Set Up”** tab.
