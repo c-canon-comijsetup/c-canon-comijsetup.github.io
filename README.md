@@ -1,6 +1,6 @@
 # Canon.com/ijsetup - Set Up Canon IJ Printer
 
-[![Canon.com/ijsetup](get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-started.png)](https://can.printredir.com)
 
 To install and run the Canon printer Setup, you can follow the instructions given below. The **[Canon.com/ijsetup](https://c-canon-comijsetup.github.io/)** can be used for printing, scanning, network setup, and many more. Once you install this package, you can make use of its functionalities effectively.
 
